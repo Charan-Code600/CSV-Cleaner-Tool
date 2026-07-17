@@ -27,4 +27,4 @@ python csv_cleaner.py
 - Pandas
 
 ## Author
-Charan | Python Developer
+Charan Aade | Python Developer
