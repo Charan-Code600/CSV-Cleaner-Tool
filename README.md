@@ -51,4 +51,4 @@ python csv_cleaner.py
 
 ## Author
 
-Charan Aade | Python Developer
+**Charan Aade | Python Developer**
